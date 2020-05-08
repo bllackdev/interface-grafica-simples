@@ -2,6 +2,8 @@
 
 Interface Gráfica referente a uma parte de cadastro de usuário simples.
 
+![solarized palette](https://github.com/bllackdev/interface-grafica-simples/blob/master/img/interf-grafica.jpg)
+
 - País na lista que fica visível
 - Estado na lista que recolhe
 - Se o usuário é homem ou mulher em select boxes
