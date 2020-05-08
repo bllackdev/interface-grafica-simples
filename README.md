@@ -1,4 +1,4 @@
-# Interface Gráfica Simples - C#
+﻿# Interface Gráfica Simples - C#
 
 Interface Gráfica referente a uma parte de cadastro de usuário simples.
 
