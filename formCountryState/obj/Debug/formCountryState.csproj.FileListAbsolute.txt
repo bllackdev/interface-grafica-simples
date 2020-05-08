@@ -1,0 +1,10 @@
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\bin\Debug\formCountryState.exe.config
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\bin\Debug\formCountryState.exe
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\bin\Debug\formCountryState.pdb
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\obj\Debug\formCountryState.csprojAssemblyReference.cache
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\obj\Debug\formCountryState.Form1.resources
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\obj\Debug\formCountryState.Properties.Resources.resources
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\obj\Debug\formCountryState.csproj.GenerateResource.cache
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\obj\Debug\formCountryState.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\obj\Debug\formCountryState.exe
+C:\Users\Viviane\Documents\Nova pasta\formCountryState\formCountryState\obj\Debug\formCountryState.pdb
